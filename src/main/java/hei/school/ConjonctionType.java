@@ -1,2 +1,5 @@
-package hei.school;public enum ConjonctionType {
+package hei.school;
+
+public enum ConjonctionType {
+    ET, OU, DONC
 }
